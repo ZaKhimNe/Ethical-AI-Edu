@@ -1,4 +1,4 @@
-# Ethical-AI-Edu — CLAUDE.md
+# Ethical-AI-Edu
 
 ## Mục đích dự án
 
