@@ -1,0 +1,101 @@
+scenario_id,title,topic,choice,votes,avg_time_s
+1,Đổi mới hay Ổn định: Lựa chọn của Khôi,Quan hệ thầy trò,B,2,139.0
+2,Lựa chọn giữa công bằng và tôn sư,Quan hệ thầy trò,B,2,57.0
+3,Áp Lực Quyền Lực Trong Lớp Học,Quan hệ thầy trò,A,3,45.0
+4,Áp lực học thêm: Tương lai hay đam mê?,Quan hệ thầy trò,C,2,58.5
+5,Hợp tác hay Cạnh tranh: Lựa chọn của Cô Mai,Quan hệ thầy trò,C,2,82.0
+6,Đề tài tốt nghiệp: Đột phá hay an toàn?,Quan hệ thầy trò,B,2,49.5
+7,Áp lực tập thể: Kế hoạch cá nhân và thành tích lớp,Quan hệ thầy trò,B,4,22.0
+8,Áp lực phụ huynh: Đổi giáo viên hay giữ vững nguyên tắc sư phạm?,Quan hệ thầy trò,B,4,83.8
+9,Đam mê nghệ thuật hay ơn nghĩa thầy trò?,Quan hệ thầy trò,C,1,78.0
+10,Linh hoạt hay Nguyên tắc: Bài toán của Thầy An,Quan hệ thầy trò,A,5,91.4
+11,Đam Mê Hay Thành Tích: Lựa Chọn Cho Hoàng Lan,Quan hệ thầy trò,C,2,60.0
+12,Đam mê hay gia đình: Con đường nào cho An?,Kỳ vọng gia đình & tự chủ học sinh,C,3,56.3
+13,Minh và áp lực đội tuyển: Giữa kỳ vọng và tự chủ,Kỳ vọng gia đình & tự chủ học sinh,C,2,96.5
+14,Điểm phúc khảo và cán cân đồng nghiệp,Kỳ vọng gia đình & tự chủ học sinh,A,3,52.7
+15,Hiệu trưởng và tiếng nói học sinh: Giữa trật tự và đổi mới,Kỳ vọng gia đình & tự chủ học sinh,A,2,29.5
+16,Giữa thành tích và tuổi thơ con,Kỳ vọng gia đình & tự chủ học sinh,A,4,64.2
+17,Gap Year: Lựa Chọn Tự Do Và Áp Lực Gia Đình,Kỳ vọng gia đình & tự chủ học sinh,B,2,96.0
+18,Kỹ Năng Mềm Hay Thành Tích Thi Cử?,Kỳ vọng gia đình & tự chủ học sinh,C,2,29.0
+19,"Kỳ vọng gia tộc: Khi ""thể diện"" đối đầu ""khám phá""",Kỳ vọng gia đình & tự chủ học sinh,C,3,44.3
+20,Đánh đổi thành tích lấy sức khỏe học trò?,Áp lực thi cử & sức khỏe tâm thần,A,3,34.0
+21,Bắt nạt học đường: Nhẫn nhịn hay đối mặt vì con?,Áp lực thi cử & sức khỏe tâm thần,B,3,290.5
+22,Sức khỏe học trò và kỳ vọng gia đình,Áp lực thi cử & sức khỏe tâm thần,B,4,73.2
+23,Điểm 10 giả: Trung thực hay giữ niềm vui con?,Gian lận học thuật,B,5,57.2
+24,Dữ liệu giả: Danh dự cá nhân hay Uy tín tập thể?,Gian lận học thuật,B,3,114.7
+25,Hồng: Minh oan hay giữ thể diện trường?,Gian lận học thuật,B,2,34.5
+26,Đạo Đức và Thành Tích: Lựa Chọn Của Ban Giám Hiệu Chu Văn An,Gian lận học thuật,B,2,79.5
+27,Hoàng Nam: Tình bạn hay trách nhiệm với tập thể?,Gian lận học thuật,A,4,82.8
+28,Quy định thi cử: Áp lực hay an toàn?,Gian lận học thuật,C,3,87.0
+29,Công bằng học đường hay 'quan hệ': Áp lực của thầy chủ nhiệm,Gian lận học thuật,B,4,67.2
+30,Chính trực hay Tình bạn?,Gian lận học thuật,B,2,44.0
+31,Danh dự và Nguyên tắc: Lựa chọn của Thầy An,Gian lận học thuật,B,2,59.0
+32,Lòng trắc ẩn hay Nguyên tắc: Lựa chọn của Cô Hoa,Gian lận học thuật,B,3,298.7
+33,Sáng tạo bị cấm: Kỷ luật Minh vì phương pháp học độc đáo,Phân biệt đối xử,B,3,38.0
+34,Phản biện hay Im lặng: Bài học từ Thầy Bình,Phân biệt đối xử,A,3,43.0
+35,Bài Học Khó: Chuẩn Mực hay Văn Hóa?,Phân biệt đối xử,B,3,334.3
+36,Áp lực sĩ diện: Thành tích hay sức khỏe tinh thần?,Phân biệt đối xử,A,4,44.0
+37,Bắt nạt ở trường điểm: Danh tiếng hay công lý?,Phân biệt đối xử,A,3,27.7
+38,Ước Mơ Giữa Lòng Định Kiến,Phân biệt đối xử,B,3,18.0
+39,Thiên vị Vô Thức: Chấp Nhận Vì Hòa Khí Hay Đấu Tranh Vì Công Bằng?,Phân biệt đối xử,B,4,46.0
+40,Bó hoa của An: Định kiến giới hay Tài năng?,Phân biệt đối xử,A,2,39.0
+41,Ưu Tiên Danh Tiếng Hay Cơ Hội Công Bằng?,Phân biệt đối xử,B,3,33.7
+42,Lựa chọn đội tuyển: Tài năng thầm lặng hay hình ảnh ưu tú?,Phân biệt đối xử,A,4,24.0
+43,Học bổng cho Thảo: Quy trình hay Lòng nhân?,Đạo đức nghề giáo,B,4,161.5
+44,Thầy giáo trẻ: Giữa khát vọng phát triển và chữ hiếu gia đình,Đạo đức nghề giáo,A,2,59.5
+45,Đổi mới giáo dục: Hiệu trưởng Thanh giữa kỳ vọng và rủi ro pháp lý,Đạo đức nghề giáo,B,2,25.5
+46,Lời Thật Hay Sự Im Lặng?,Đạo đức nghề giáo,A,3,40.3
+47,Phương pháp mới hay An toàn truyền thống: Lựa chọn của Cô Lan,Đạo đức nghề giáo,A,3,26.7
+48,"Lời Thầy, Lẽ Phải: Cô Lan Trước Áp Lực Thể Diện",Đạo đức nghề giáo,B,3,44.7
+49,Điểm Số Danh Dự Hay Giá Trị Giáo Dục Thật Sự?,Đạo đức nghề giáo,C,3,33.3
+50,Trung thực hay Danh dự Tập thể?,Đạo đức nghề giáo,C,5,53.2
+51,Dã ngoại Lớp 3B: Chia sẻ hay Ưu tiên Trải nghiệm?,Kinh tế & bất bình đẳng giáo dục,B,3,48.0
+52,Minh bạch tài chính trường học: Phụ huynh nên làm gì?,Kinh tế & bất bình đẳng giáo dục,A,3,58.0
+53,Áp lực Huy chương: Chia sẻ hay Giữ bí quyết?,Kinh tế & bất bình đẳng giáo dục,B,2,38.0
+54,Ưu tiên nhân tài hay sẻ chia cộng đồng?,Kinh tế & bất bình đẳng giáo dục,B,4,47.3
+55,Người thầy giữa lợi ích cá nhân và công bằng giáo dục,Kinh tế & bất bình đẳng giáo dục,A,3,57.3
+56,TikTok hay Bằng cấp: Ngã rẽ của An,Công nghệ & mạng xã hội,B,4,38.5
+57,Tự Do Biểu Đạt Hay Giữ Gìn Khuôn Khổ?,Công nghệ & mạng xã hội,A,2,106.5
+58,Bày tỏ bất đồng trực tuyến hay giữ gìn hình ảnh trường học?,Công nghệ & mạng xã hội,B,3,12.3
+59,Nền Tảng Số Mới: Cơ Hội Hay Rủi Ro Nề Nếp Học Đường?,Công nghệ & mạng xã hội,A,3,28.3
+60,TikTok & Thể Diện: Kỷ Luật Hay Cảm Thông?,Công nghệ & mạng xã hội,B,3,40.0
+61,Lời tố cáo giữa lễ: Quyền lợi hay hỗn láo?,Bắt nạt học đường,B,4,54.3
+62,Can thiệp Bắt nạt: Sáng tạo hay Quy trình chuẩn?,Bắt nạt học đường,A,3,70.7
+63,Tố cáo đồng nghiệp hay giữ im lặng vì 'tôn sư trọng đạo'?,Bắt nạt học đường,A,3,41.3
+64,Tình phụ tử và nghĩa tôn sư,Bắt nạt học đường,A,2,115.5
+65,Tình bạn và lương tâm: Nỗi khó xử của Mai,Bắt nạt học đường,A,3,34.0
+66,Minh: 'Nam tính' hay 'yếu đuối' trước bắt nạt?,Bắt nạt học đường,B,2,26.5
+67,Trưởng lớp gương mẫu và bóng tối bắt nạt,Bắt nạt học đường,A,2,43.0
+68,Camera trường học: An toàn hay quyền riêng tư học sinh?,Quyền riêng tư & giám sát,B,4,6.5
+69,Bí mật giám sát con: Ranh giới yêu thương và quyền riêng tư,Quyền riêng tư & giám sát,A,2,59.0
+70,Giám sát định vị giáo viên: An toàn hay xâm phạm riêng tư?,Quyền riêng tư & giám sát,B,2,46.5
+71,Quy định Mạng Xã Hội Sinh Viên: Quyền Riêng Tư và Trách Nhiệm Nhà Trường,Quyền riêng tư & giám sát,B,4,42.0
+72,Giám sát nhóm chat lớp: Hòa giải hay xâm phạm?,Quyền riêng tư & giám sát,B,2,16.5
+73,Liêm chính hay Lòng trắc ẩn?,Quan hệ thầy trò,C,4,49.0
+74,Hỗ trợ cá nhân hay Công bằng tập thể?,Quan hệ thầy trò,A,4,35.5
+75,Ngã Rẽ Sự Nghiệp: Y Khoa hay Sáng Tạo?,Kỳ vọng gia đình & tự chủ học sinh,C,2,31.0
+76,Ưu Tiên Đội Tuyển hay Thành Tích Thi?,Kỳ vọng gia đình & tự chủ học sinh,B,2,58.0
+77,Thạc Sĩ Quốc Tế hay Chữ Hiếu Gần Nhà?,Kỳ vọng gia đình & tự chủ học sinh,C,5,79.2
+78,Nối Nghiệp Gia Đình hay Theo Đam Mê Khoa Học?,Kỳ vọng gia đình & tự chủ học sinh,B,3,84.7
+79,Đại Học Đô Thị hay Nơi Chôn Nhau Cắt Rốn?,Kỳ vọng gia đình & tự chủ học sinh,B,2,42.0
+80,Báo cáo hay giữ bí mật cho trò?,Áp lực thi cử & sức khỏe tâm thần,B,2,111.5
+81,Thành tích trường và nỗi đau của Minh?,Áp lực thi cử & sức khỏe tâm thần,B,2,249.0
+82,Trường chuyên: Rạng danh hay tổn thương?,Áp lực thi cử & sức khỏe tâm thần,B,2,148.5
+83,Giữ bí mật hay nói với người lớn?,Áp lực thi cử & sức khỏe tâm thần,B,2,23.5
+84,Giữ kín hay phá vỡ lời hứa?,Áp lực thi cử & sức khỏe tâm thần,B,4,81.0
+85,Tin lời trò hay tin mắt mình?,Áp lực thi cử & sức khỏe tâm thần,B,2,27.0
+86,Chuẩn bị thi hay vui Tết Đoàn viên?,Áp lực thi cử & sức khỏe tâm thần,A,4,31.0
+87,Tiếp tục học online hay dừng lại?,Áp lực thi cử & sức khỏe tâm thần,A,2,18.0
+88,Gia sư: Đẩy hay giữ chân trò?,Áp lực thi cử & sức khỏe tâm thần,B,5,52.0
+89,Áp lực gia đình: Thi cử và lời cầu cứu,Gian lận học thuật,C,4,70.0
+90,Thành tích lớp: Lựa chọn của cô chủ nhiệm,Gian lận học thuật,B,2,24.0
+91,Tình nghĩa hay Nguyên tắc?,Đạo đức nghề giáo,C,2,108.0
+92,Sự thật hay Giữ thể diện?,Đạo đức nghề giáo,A,4,96.0
+93,Quỹ Phát Triển: Ưu Tiên Nhân Tài hay Bình Đẳng Hạ Tầng?,Kinh tế & bất bình đẳng giáo dục,A,2,39.0
+94,Thầy Minh và Áp Lực Lớp Học Thêm: Công Bằng Hay Thu Nhập?,Kinh tế & bất bình đẳng giáo dục,B,3,64.0
+95,Trường Hương Sơn: Tiền Tài Trợ và Đạo Đức Cộng Đồng,Kinh tế & bất bình đẳng giáo dục,A,3,87.0
+96,Deepfake và Thể diện Gia đình,Công nghệ & mạng xã hội,B,4,24.0
+97,AI trong Học tập: Trung Thực Hay Hiệu Quả?,Công nghệ & mạng xã hội,A,3,12.3
+98,Gây Quỹ Trực Tuyến: Giúp Đỡ Hay Xâm Phạm?,Công nghệ & mạng xã hội,B,3,39.7
+99,Dữ liệu học tập: Cải thiện hay Giám sát?,Quyền riêng tư & giám sát,B,3,56.5
+100,Giám sát CLB: Tin tưởng hay Kiểm soát?,Quyền riêng tư & giám sát,A,2,108.0

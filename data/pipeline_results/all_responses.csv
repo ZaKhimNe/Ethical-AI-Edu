@@ -1,0 +1,385 @@
+code,name,scenario_id,title,topic,choice,time_spent_s,submitted_at
+VN001,Hoàng Hữu Vũ Nhân,7,Áp lực tập thể: Kế hoạch cá nhân và thành tích lớp,Quan hệ thầy trò,B,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,20,Đánh đổi thành tích lấy sức khỏe học trò?,Áp lực thi cử & sức khỏe tâm thần,A,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,21,Bắt nạt học đường: Nhẫn nhịn hay đối mặt vì con?,Áp lực thi cử & sức khỏe tâm thần,B,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,26,Đạo Đức và Thành Tích: Lựa Chọn Của Ban Giám Hiệu Chu Văn An,Gian lận học thuật,C,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,33,Sáng tạo bị cấm: Kỷ luật Minh vì phương pháp học độc đáo,Phân biệt đối xử,A,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,38,Ước Mơ Giữa Lòng Định Kiến,Phân biệt đối xử,B,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,40,Bó hoa của An: Định kiến giới hay Tài năng?,Phân biệt đối xử,A,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,51,Dã ngoại Lớp 3B: Chia sẻ hay Ưu tiên Trải nghiệm?,Kinh tế & bất bình đẳng giáo dục,B,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,90,Thành tích lớp: Lựa chọn của cô chủ nhiệm,Gian lận học thuật,B,,2026-05-20 15:59:56.419356
+VN001,Hoàng Hữu Vũ Nhân,93,Quỹ Phát Triển: Ưu Tiên Nhân Tài hay Bình Đẳng Hạ Tầng?,Kinh tế & bất bình đẳng giáo dục,B,,2026-05-20 15:59:56.419356
+VN002,Lê Huỳnh Phát Đạt,4,Áp lực học thêm: Tương lai hay đam mê?,Quan hệ thầy trò,C,35.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,6,Đề tài tốt nghiệp: Đột phá hay an toàn?,Quan hệ thầy trò,A,24.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,21,Bắt nạt học đường: Nhẫn nhịn hay đối mặt vì con?,Áp lực thi cử & sức khỏe tâm thần,B,43.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,25,Hồng: Minh oan hay giữ thể diện trường?,Gian lận học thuật,A,9.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,39,Thiên vị Vô Thức: Chấp Nhận Vì Hòa Khí Hay Đấu Tranh Vì Công Bằng?,Phân biệt đối xử,A,19.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,59,Nền Tảng Số Mới: Cơ Hội Hay Rủi Ro Nề Nếp Học Đường?,Công nghệ & mạng xã hội,A,38.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,74,Hỗ trợ cá nhân hay Công bằng tập thể?,Quan hệ thầy trò,A,33.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,92,Sự thật hay Giữ thể diện?,Đạo đức nghề giáo,A,12.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,96,Deepfake và Thể diện Gia đình,Công nghệ & mạng xã hội,B,35.0,2026-05-20 03:44:09.909815
+VN002,Lê Huỳnh Phát Đạt,98,Gây Quỹ Trực Tuyến: Giúp Đỡ Hay Xâm Phạm?,Công nghệ & mạng xã hội,B,17.0,2026-05-20 03:44:09.909815
+VN003,Đào Tuấn Khanh,6,Đề tài tốt nghiệp: Đột phá hay an toàn?,Quan hệ thầy trò,A,16.0,2026-05-20 06:48:17.796145
+VN003,Đào Tuấn Khanh,46,Lời Thật Hay Sự Im Lặng?,Đạo đức nghề giáo,A,47.0,2026-05-20 06:48:17.796145
+VN003,Đào Tuấn Khanh,47,Phương pháp mới hay An toàn truyền thống: Lựa chọn của Cô Lan,Đạo đức nghề giáo,A,11.0,2026-05-20 06:48:17.796145
+VN004,Trần Minh Quân,8,Áp lực phụ huynh: Đổi giáo viên hay giữ vững nguyên tắc sư phạm?,Quan hệ thầy trò,B,140.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,16,Giữa thành tích và tuổi thơ con,Kỳ vọng gia đình & tự chủ học sinh,A,128.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,24,Dữ liệu giả: Danh dự cá nhân hay Uy tín tập thể?,Gian lận học thuật,B,234.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,32,Lòng trắc ẩn hay Nguyên tắc: Lựa chọn của Cô Hoa,Gian lận học thuật,A,85.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,35,Bài Học Khó: Chuẩn Mực hay Văn Hóa?,Phân biệt đối xử,B,257.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,49,Điểm Số Danh Dự Hay Giá Trị Giáo Dục Thật Sự?,Đạo đức nghề giáo,B,79.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,53,Áp lực Huy chương: Chia sẻ hay Giữ bí quyết?,Kinh tế & bất bình đẳng giáo dục,A,186.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,82,Trường chuyên: Rạng danh hay tổn thương?,Áp lực thi cử & sức khỏe tâm thần,B,154.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,84,Giữ kín hay phá vỡ lời hứa?,Áp lực thi cử & sức khỏe tâm thần,A,55.0,2026-05-20 11:58:10.43638
+VN004,Trần Minh Quân,91,Tình nghĩa hay Nguyên tắc?,Đạo đức nghề giáo,C,93.0,2026-05-20 11:58:10.43638
+VN005,Nguyễn Quang Minh,1,Đổi mới hay Ổn định: Lựa chọn của Khôi,Quan hệ thầy trò,B,,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,9,Đam mê nghệ thuật hay ơn nghĩa thầy trò?,Quan hệ thầy trò,C,78.0,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,43,Học bổng cho Thảo: Quy trình hay Lòng nhân?,Đạo đức nghề giáo,B,143.0,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,54,Ưu tiên nhân tài hay sẻ chia cộng đồng?,Kinh tế & bất bình đẳng giáo dục,B,,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,56,TikTok hay Bằng cấp: Ngã rẽ của An,Công nghệ & mạng xã hội,B,53.0,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,60,TikTok & Thể Diện: Kỷ Luật Hay Cảm Thông?,Công nghệ & mạng xã hội,B,58.0,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,62,Can thiệp Bắt nạt: Sáng tạo hay Quy trình chuẩn?,Bắt nạt học đường,B,44.0,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,69,Bí mật giám sát con: Ranh giới yêu thương và quyền riêng tư,Quyền riêng tư & giám sát,A,96.0,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,74,Hỗ trợ cá nhân hay Công bằng tập thể?,Quan hệ thầy trò,A,54.0,2026-05-20 10:15:06.870033
+VN005,Nguyễn Quang Minh,77,Thạc Sĩ Quốc Tế hay Chữ Hiếu Gần Nhà?,Kỳ vọng gia đình & tự chủ học sinh,C,130.0,2026-05-20 10:15:06.870033
+VN006,Bảo Huy,6,Đề tài tốt nghiệp: Đột phá hay an toàn?,Quan hệ thầy trò,C,47.0,2026-05-20 03:34:01.235359
+VN006,Bảo Huy,7,Áp lực tập thể: Kế hoạch cá nhân và thành tích lớp,Quan hệ thầy trò,B,27.0,2026-05-20 03:34:01.235359
+VN006,Bảo Huy,14,Điểm phúc khảo và cán cân đồng nghiệp,Kỳ vọng gia đình & tự chủ học sinh,A,30.0,2026-05-20 03:34:01.235359
+VN006,Bảo Huy,27,Hoàng Nam: Tình bạn hay trách nhiệm với tập thể?,Gian lận học thuật,A,115.0,2026-05-20 03:34:01.235359
+VN006,Bảo Huy,34,Phản biện hay Im lặng: Bài học từ Thầy Bình,Phân biệt đối xử,B,19.0,2026-05-20 03:34:01.235359
+VN006,Bảo Huy,54,Ưu tiên nhân tài hay sẻ chia cộng đồng?,Kinh tế & bất bình đẳng giáo dục,B,62.0,2026-05-20 03:34:01.235359
+VN006,Bảo Huy,70,Giám sát định vị giáo viên: An toàn hay xâm phạm riêng tư?,Quyền riêng tư & giám sát,B,20.0,2026-05-20 03:34:01.235359
+VN006,Bảo Huy,85,Tin lời trò hay tin mắt mình?,Áp lực thi cử & sức khỏe tâm thần,B,23.0,2026-05-20 03:34:01.235359
+VN007,Nguyễn Thanh Tuấn,8,Áp lực phụ huynh: Đổi giáo viên hay giữ vững nguyên tắc sư phạm?,Quan hệ thầy trò,B,68.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,18,Kỹ Năng Mềm Hay Thành Tích Thi Cử?,Kỳ vọng gia đình & tự chủ học sinh,C,55.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,29,Công bằng học đường hay 'quan hệ': Áp lực của thầy chủ nhiệm,Gian lận học thuật,B,99.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,33,Sáng tạo bị cấm: Kỷ luật Minh vì phương pháp học độc đáo,Phân biệt đối xử,B,53.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,37,Bắt nạt ở trường điểm: Danh tiếng hay công lý?,Phân biệt đối xử,A,33.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,44,Thầy giáo trẻ: Giữa khát vọng phát triển và chữ hiếu gia đình,Đạo đức nghề giáo,A,56.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,47,Phương pháp mới hay An toàn truyền thống: Lựa chọn của Cô Lan,Đạo đức nghề giáo,A,34.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,57,Tự Do Biểu Đạt Hay Giữ Gìn Khuôn Khổ?,Công nghệ & mạng xã hội,B,55.0,2026-05-20 16:10:19.529136
+VN007,Nguyễn Thanh Tuấn,66,Minh: 'Nam tính' hay 'yếu đuối' trước bắt nạt?,Bắt nạt học đường,B,32.0,2026-05-20 16:10:19.529136
+VN008,Hoàng Hữu Minh Phúc,10,Linh hoạt hay Nguyên tắc: Bài toán của Thầy An,Quan hệ thầy trò,A,237.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,28,Quy định thi cử: Áp lực hay an toàn?,Gian lận học thuật,C,57.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,32,Lòng trắc ẩn hay Nguyên tắc: Lựa chọn của Cô Hoa,Gian lận học thuật,B,778.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,35,Bài Học Khó: Chuẩn Mực hay Văn Hóa?,Phân biệt đối xử,B,60.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,43,Học bổng cho Thảo: Quy trình hay Lòng nhân?,Đạo đức nghề giáo,B,250.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,57,Tự Do Biểu Đạt Hay Giữ Gìn Khuôn Khổ?,Công nghệ & mạng xã hội,A,135.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,71,Quy định Mạng Xã Hội Sinh Viên: Quyền Riêng Tư và Trách Nhiệm Nhà Trường,Quyền riêng tư & giám sát,B,61.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,72,Giám sát nhóm chat lớp: Hòa giải hay xâm phạm?,Quyền riêng tư & giám sát,A,288.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,76,Ưu Tiên Đội Tuyển hay Thành Tích Thi?,Kỳ vọng gia đình & tự chủ học sinh,B,92.0,2026-05-20 04:35:10.794402
+VN008,Hoàng Hữu Minh Phúc,100,Giám sát CLB: Tin tưởng hay Kiểm soát?,Quyền riêng tư & giám sát,B,54.0,2026-05-20 04:35:10.794402
+VN009,Trần Phúc Đăng,11,Đam Mê Hay Thành Tích: Lựa Chọn Cho Hoàng Lan,Quan hệ thầy trò,A,7.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,23,Điểm 10 giả: Trung thực hay giữ niềm vui con?,Gian lận học thuật,B,23.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,32,Lòng trắc ẩn hay Nguyên tắc: Lựa chọn của Cô Hoa,Gian lận học thuật,A,4.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,49,Điểm Số Danh Dự Hay Giá Trị Giáo Dục Thật Sự?,Đạo đức nghề giáo,C,16.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,52,Minh bạch tài chính trường học: Phụ huynh nên làm gì?,Kinh tế & bất bình đẳng giáo dục,A,24.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,58,Bày tỏ bất đồng trực tuyến hay giữ gìn hình ảnh trường học?,Công nghệ & mạng xã hội,B,4.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,67,Trưởng lớp gương mẫu và bóng tối bắt nạt,Bắt nạt học đường,A,3.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,89,Áp lực gia đình: Thi cử và lời cầu cứu,Gian lận học thuật,B,4.0,2026-05-20 12:31:14.05901
+VN009,Trần Phúc Đăng,100,Giám sát CLB: Tin tưởng hay Kiểm soát?,Quyền riêng tư & giám sát,B,20.0,2026-05-20 12:31:14.05901
+VN010,Nguyễn Bảo Quân,10,Linh hoạt hay Nguyên tắc: Bài toán của Thầy An,Quan hệ thầy trò,A,20.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,39,Thiên vị Vô Thức: Chấp Nhận Vì Hòa Khí Hay Đấu Tranh Vì Công Bằng?,Phân biệt đối xử,B,31.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,42,Lựa chọn đội tuyển: Tài năng thầm lặng hay hình ảnh ưu tú?,Phân biệt đối xử,A,24.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,52,Minh bạch tài chính trường học: Phụ huynh nên làm gì?,Kinh tế & bất bình đẳng giáo dục,A,75.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,62,Can thiệp Bắt nạt: Sáng tạo hay Quy trình chuẩn?,Bắt nạt học đường,A,41.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,68,Camera trường học: An toàn hay quyền riêng tư học sinh?,Quyền riêng tư & giám sát,B,10.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,78,Nối Nghiệp Gia Đình hay Theo Đam Mê Khoa Học?,Kỳ vọng gia đình & tự chủ học sinh,C,28.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,86,Chuẩn bị thi hay vui Tết Đoàn viên?,Áp lực thi cử & sức khỏe tâm thần,A,36.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,89,Áp lực gia đình: Thi cử và lời cầu cứu,Gian lận học thuật,C,122.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Bảo Quân,92,Sự thật hay Giữ thể diện?,Đạo đức nghề giáo,A,178.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,10,Linh hoạt hay Nguyên tắc: Bài toán của Thầy An,Quan hệ thầy trò,A,20.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,39,Thiên vị Vô Thức: Chấp Nhận Vì Hòa Khí Hay Đấu Tranh Vì Công Bằng?,Phân biệt đối xử,B,31.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,42,Lựa chọn đội tuyển: Tài năng thầm lặng hay hình ảnh ưu tú?,Phân biệt đối xử,A,24.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,52,Minh bạch tài chính trường học: Phụ huynh nên làm gì?,Kinh tế & bất bình đẳng giáo dục,A,75.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,62,Can thiệp Bắt nạt: Sáng tạo hay Quy trình chuẩn?,Bắt nạt học đường,A,41.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,68,Camera trường học: An toàn hay quyền riêng tư học sinh?,Quyền riêng tư & giám sát,B,10.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,78,Nối Nghiệp Gia Đình hay Theo Đam Mê Khoa Học?,Kỳ vọng gia đình & tự chủ học sinh,C,28.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,86,Chuẩn bị thi hay vui Tết Đoàn viên?,Áp lực thi cử & sức khỏe tâm thần,A,36.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,89,Áp lực gia đình: Thi cử và lời cầu cứu,Gian lận học thuật,C,122.0,2026-05-20 14:25:08.007731
+VN010,Nguyễn Đức Toàn,92,Sự thật hay Giữ thể diện?,Đạo đức nghề giáo,A,178.0,2026-05-20 14:25:08.007731
+VN011,Nguyễn Đình Tuấn Phúc,13,Minh và áp lực đội tuyển: Giữa kỳ vọng và tự chủ,Kỳ vọng gia đình & tự chủ học sinh,A,3.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,16,Giữa thành tích và tuổi thơ con,Kỳ vọng gia đình & tự chủ học sinh,A,2.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,22,Sức khỏe học trò và kỳ vọng gia đình,Áp lực thi cử & sức khỏe tâm thần,B,5.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,34,Phản biện hay Im lặng: Bài học từ Thầy Bình,Phân biệt đối xử,A,5.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,47,Phương pháp mới hay An toàn truyền thống: Lựa chọn của Cô Lan,Đạo đức nghề giáo,C,3.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,61,Lời tố cáo giữa lễ: Quyền lợi hay hỗn láo?,Bắt nạt học đường,B,4.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,71,Quy định Mạng Xã Hội Sinh Viên: Quyền Riêng Tư và Trách Nhiệm Nhà Trường,Quyền riêng tư & giám sát,B,29.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,78,Nối Nghiệp Gia Đình hay Theo Đam Mê Khoa Học?,Kỳ vọng gia đình & tự chủ học sinh,B,4.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,96,Deepfake và Thể diện Gia đình,Công nghệ & mạng xã hội,B,4.0,2026-05-20 10:01:54.89761
+VN011,Nguyễn Đình Tuấn Phúc,97,AI trong Học tập: Trung Thực Hay Hiệu Quả?,Công nghệ & mạng xã hội,A,2.0,2026-05-20 10:01:54.89761
+VN012,Phạm Minh Nguyên,5,Hợp tác hay Cạnh tranh: Lựa chọn của Cô Mai,Quan hệ thầy trò,C,,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,20,Đánh đổi thành tích lấy sức khỏe học trò?,Áp lực thi cử & sức khỏe tâm thần,A,44.0,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,25,Hồng: Minh oan hay giữ thể diện trường?,Gian lận học thuật,A,,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,27,Hoàng Nam: Tình bạn hay trách nhiệm với tập thể?,Gian lận học thuật,A,131.0,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,55,Người thầy giữa lợi ích cá nhân và công bằng giáo dục,Kinh tế & bất bình đẳng giáo dục,A,81.0,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,61,Lời tố cáo giữa lễ: Quyền lợi hay hỗn láo?,Bắt nạt học đường,B,,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,81,Thành tích trường và nỗi đau của Minh?,Áp lực thi cử & sức khỏe tâm thần,B,249.0,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,85,Tin lời trò hay tin mắt mình?,Áp lực thi cử & sức khỏe tâm thần,B,31.0,2026-05-20 15:00:00.937694
+VN012,Phạm Minh Nguyên,92,Sự thật hay Giữ thể diện?,Đạo đức nghề giáo,A,16.0,2026-05-20 15:00:00.937694
+VN013,Nguyễn Phúc Bảo Khang,8,Áp lực phụ huynh: Đổi giáo viên hay giữ vững nguyên tắc sư phạm?,Quan hệ thầy trò,B,81.0,2026-05-20 12:16:27.649587
+VN013,Nguyễn Phúc Bảo Khang,11,Đam Mê Hay Thành Tích: Lựa Chọn Cho Hoàng Lan,Quan hệ thầy trò,C,54.0,2026-05-20 12:16:27.649587
+VN013,Nguyễn Phúc Bảo Khang,22,Sức khỏe học trò và kỳ vọng gia đình,Áp lực thi cử & sức khỏe tâm thần,B,158.0,2026-05-20 12:16:27.649587
+VN013,Nguyễn Phúc Bảo Khang,23,Điểm 10 giả: Trung thực hay giữ niềm vui con?,Gian lận học thuật,B,83.0,2026-05-20 12:16:27.649587
+VN013,Nguyễn Phúc Bảo Khang,31,Danh dự và Nguyên tắc: Lựa chọn của Thầy An,Gian lận học thuật,A,121.0,2026-05-20 09:12:16.196168
+VN013,Nguyễn Phúc Bảo Khang,62,Can thiệp Bắt nạt: Sáng tạo hay Quy trình chuẩn?,Bắt nạt học đường,A,130.0,2026-05-20 12:16:27.649587
+VN013,Nguyễn Phúc Bảo Khang,73,Liêm chính hay Lòng trắc ẩn?,Quan hệ thầy trò,A,212.0,2026-05-20 12:16:27.649587
+VN013,Nguyễn Phúc Bảo Khang,79,Đại Học Đô Thị hay Nơi Chôn Nhau Cắt Rốn?,Kỳ vọng gia đình & tự chủ học sinh,B,70.0,2026-05-20 12:16:27.649587
+VN013,Nguyễn Phúc Bảo Khang,82,Trường chuyên: Rạng danh hay tổn thương?,Áp lực thi cử & sức khỏe tâm thần,B,143.0,2026-05-20 12:16:27.649587
+VN014,Trần Nam Huy,5,Hợp tác hay Cạnh tranh: Lựa chọn của Cô Mai,Quan hệ thầy trò,C,82.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,24,Dữ liệu giả: Danh dự cá nhân hay Uy tín tập thể?,Gian lận học thuật,A,25.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,45,Đổi mới giáo dục: Hiệu trưởng Thanh giữa kỳ vọng và rủi ro pháp lý,Đạo đức nghề giáo,A,29.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,50,Trung thực hay Danh dự Tập thể?,Đạo đức nghề giáo,C,78.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,51,Dã ngoại Lớp 3B: Chia sẻ hay Ưu tiên Trải nghiệm?,Kinh tế & bất bình đẳng giáo dục,B,54.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,55,Người thầy giữa lợi ích cá nhân và công bằng giáo dục,Kinh tế & bất bình đẳng giáo dục,A,51.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,71,Quy định Mạng Xã Hội Sinh Viên: Quyền Riêng Tư và Trách Nhiệm Nhà Trường,Quyền riêng tư & giám sát,B,41.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,83,Giữ bí mật hay nói với người lớn?,Áp lực thi cử & sức khỏe tâm thần,A,26.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,96,Deepfake và Thể diện Gia đình,Công nghệ & mạng xã hội,B,41.0,2026-05-20 11:59:40.146135
+VN014,Trần Nam Huy,97,AI trong Học tập: Trung Thực Hay Hiệu Quả?,Công nghệ & mạng xã hội,A,23.0,2026-05-20 11:59:40.146135
+VN015,Nguyễn Minh Minh,1,Đổi mới hay Ổn định: Lựa chọn của Khôi,Quan hệ thầy trò,A,70.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,28,Quy định thi cử: Áp lực hay an toàn?,Gian lận học thuật,C,44.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,29,Công bằng học đường hay 'quan hệ': Áp lực của thầy chủ nhiệm,Gian lận học thuật,B,43.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,30,Chính trực hay Tình bạn?,Gian lận học thuật,B,42.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,39,Thiên vị Vô Thức: Chấp Nhận Vì Hòa Khí Hay Đấu Tranh Vì Công Bằng?,Phân biệt đối xử,A,43.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,46,Lời Thật Hay Sự Im Lặng?,Đạo đức nghề giáo,A,47.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,48,"Lời Thầy, Lẽ Phải: Cô Lan Trước Áp Lực Thể Diện",Đạo đức nghề giáo,B,48.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,56,TikTok hay Bằng cấp: Ngã rẽ của An,Công nghệ & mạng xã hội,B,37.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,69,Bí mật giám sát con: Ranh giới yêu thương và quyền riêng tư,Quyền riêng tư & giám sát,B,35.0,2026-05-20 12:00:09.461428
+VN015,Nguyễn Minh Minh,77,Thạc Sĩ Quốc Tế hay Chữ Hiếu Gần Nhà?,Kỳ vọng gia đình & tự chủ học sinh,C,35.0,2026-05-20 12:00:09.461428
+VN016,Huỳnh Châu Kiệt,2,Lựa chọn giữa công bằng và tôn sư,Quan hệ thầy trò,B,,2026-05-20 04:04:49.506357
+VN016,Huỳnh Châu Kiệt,3,Áp Lực Quyền Lực Trong Lớp Học,Quan hệ thầy trò,B,,2026-05-20 03:45:42.07713
+VN016,Huỳnh Châu Kiệt,30,Chính trực hay Tình bạn?,Gian lận học thuật,A,,2026-05-20 03:45:42.07713
+VN016,Huỳnh Châu Kiệt,31,Danh dự và Nguyên tắc: Lựa chọn của Thầy An,Gian lận học thuật,B,,2026-05-20 03:57:20.432745
+VN016,Huỳnh Châu Kiệt,42,Lựa chọn đội tuyển: Tài năng thầm lặng hay hình ảnh ưu tú?,Phân biệt đối xử,A,,2026-05-20 04:04:49.506357
+VN016,Huỳnh Châu Kiệt,65,Tình bạn và lương tâm: Nỗi khó xử của Mai,Bắt nạt học đường,A,,2026-05-20 03:57:20.432745
+VN016,Huỳnh Châu Kiệt,76,Ưu Tiên Đội Tuyển hay Thành Tích Thi?,Kỳ vọng gia đình & tự chủ học sinh,A,,2026-05-20 04:04:49.506357
+VN016,Huỳnh Châu Kiệt,85,Tin lời trò hay tin mắt mình?,Áp lực thi cử & sức khỏe tâm thần,A,,2026-05-20 03:45:42.07713
+VN016,Huỳnh Châu Kiệt,87,Tiếp tục học online hay dừng lại?,Áp lực thi cử & sức khỏe tâm thần,A,,2026-05-20 03:57:20.432745
+VN016,Huỳnh Châu Kiệt,88,Gia sư: Đẩy hay giữ chân trò?,Áp lực thi cử & sức khỏe tâm thần,B,,2026-05-20 03:45:42.07713
+VN016,Tạ Gia Khiêm,2,Lựa chọn giữa công bằng và tôn sư,Quan hệ thầy trò,B,,2026-05-20 03:45:42.07713
+VN016,Tạ Gia Khiêm,3,Áp Lực Quyền Lực Trong Lớp Học,Quan hệ thầy trò,A,,2026-05-20 03:57:20.432745
+VN016,Tạ Gia Khiêm,30,Chính trực hay Tình bạn?,Gian lận học thuật,A,,2026-05-20 04:04:49.506357
+VN016,Tạ Gia Khiêm,31,Danh dự và Nguyên tắc: Lựa chọn của Thầy An,Gian lận học thuật,C,,2026-05-20 04:04:49.506357
+VN016,Tạ Gia Khiêm,42,Lựa chọn đội tuyển: Tài năng thầm lặng hay hình ảnh ưu tú?,Phân biệt đối xử,A,,2026-05-20 03:45:42.07713
+VN016,Tạ Gia Khiêm,65,Tình bạn và lương tâm: Nỗi khó xử của Mai,Bắt nạt học đường,A,,2026-05-20 03:57:20.432745
+VN016,Tạ Gia Khiêm,76,Ưu Tiên Đội Tuyển hay Thành Tích Thi?,Kỳ vọng gia đình & tự chủ học sinh,A,,2026-05-20 04:04:49.506357
+VN016,Tạ Gia Khiêm,85,Tin lời trò hay tin mắt mình?,Áp lực thi cử & sức khỏe tâm thần,A,,2026-05-20 03:57:20.432745
+VN016,Tạ Gia Khiêm,87,Tiếp tục học online hay dừng lại?,Áp lực thi cử & sức khỏe tâm thần,B,,2026-05-20 04:04:49.506357
+VN016,Tạ Gia Khiêm,88,Gia sư: Đẩy hay giữ chân trò?,Áp lực thi cử & sức khỏe tâm thần,A,,2026-05-20 04:04:49.506357
+VN017,Nguyễn Tố Quyên,1,Đổi mới hay Ổn định: Lựa chọn của Khôi,Quan hệ thầy trò,C,14.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,9,Đam mê nghệ thuật hay ơn nghĩa thầy trò?,Quan hệ thầy trò,B,19.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,53,Áp lực Huy chương: Chia sẻ hay Giữ bí quyết?,Kinh tế & bất bình đẳng giáo dục,B,13.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,58,Bày tỏ bất đồng trực tuyến hay giữ gìn hình ảnh trường học?,Công nghệ & mạng xã hội,B,18.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,61,Lời tố cáo giữa lễ: Quyền lợi hay hỗn láo?,Bắt nạt học đường,B,125.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,63,Tố cáo đồng nghiệp hay giữ im lặng vì 'tôn sư trọng đạo'?,Bắt nạt học đường,A,16.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,67,Trưởng lớp gương mẫu và bóng tối bắt nạt,Bắt nạt học đường,A,83.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,75,Ngã Rẽ Sự Nghiệp: Y Khoa hay Sáng Tạo?,Kỳ vọng gia đình & tự chủ học sinh,B,14.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,86,Chuẩn bị thi hay vui Tết Đoàn viên?,Áp lực thi cử & sức khỏe tâm thần,A,19.0,2026-05-20 03:24:44.905256
+VN017,Nguyễn Tố Quyên,99,Dữ liệu học tập: Cải thiện hay Giám sát?,Quyền riêng tư & giám sát,B,58.0,2026-05-20 03:24:44.905256
+VN018,Bùi Đỗ Đức Phúc,3,Áp Lực Quyền Lực Trong Lớp Học,Quan hệ thầy trò,A,45.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,12,Đam mê hay gia đình: Con đường nào cho An?,Kỳ vọng gia đình & tự chủ học sinh,C,48.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,24,Dữ liệu giả: Danh dự cá nhân hay Uy tín tập thể?,Gian lận học thuật,B,59.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,27,Hoàng Nam: Tình bạn hay trách nhiệm với tập thể?,Gian lận học thuật,A,57.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,29,Công bằng học đường hay 'quan hệ': Áp lực của thầy chủ nhiệm,Gian lận học thuật,B,48.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,31,Danh dự và Nguyên tắc: Lựa chọn của Thầy An,Gian lận học thuật,B,59.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,40,Bó hoa của An: Định kiến giới hay Tài năng?,Phân biệt đối xử,A,39.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,88,Gia sư: Đẩy hay giữ chân trò?,Áp lực thi cử & sức khỏe tâm thần,B,37.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,93,Quỹ Phát Triển: Ưu Tiên Nhân Tài hay Bình Đẳng Hạ Tầng?,Kinh tế & bất bình đẳng giáo dục,A,41.0,2026-05-20 03:25:46.041594
+VN018,Bùi Đỗ Đức Phúc,99,Dữ liệu học tập: Cải thiện hay Giám sát?,Quyền riêng tư & giám sát,B,55.0,2026-05-20 03:25:46.041594
+VN019,Nguyễn Thành Nghĩa,10,Linh hoạt hay Nguyên tắc: Bài toán của Thầy An,Quan hệ thầy trò,A,60.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,36,Áp lực sĩ diện: Thành tích hay sức khỏe tinh thần?,Phân biệt đối xử,A,17.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,37,Bắt nạt ở trường điểm: Danh tiếng hay công lý?,Phân biệt đối xử,A,23.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,38,Ước Mơ Giữa Lòng Định Kiến,Phân biệt đối xử,B,9.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,44,Thầy giáo trẻ: Giữa khát vọng phát triển và chữ hiếu gia đình,Đạo đức nghề giáo,B,15.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,50,Trung thực hay Danh dự Tập thể?,Đạo đức nghề giáo,C,8.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,60,TikTok & Thể Diện: Kỷ Luật Hay Cảm Thông?,Công nghệ & mạng xã hội,B,11.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,68,Camera trường học: An toàn hay quyền riêng tư học sinh?,Quyền riêng tư & giám sát,B,5.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,83,Giữ bí mật hay nói với người lớn?,Áp lực thi cử & sức khỏe tâm thần,B,19.0,2026-05-20 03:24:42.304389
+VN019,Nguyễn Thành Nghĩa,89,Áp lực gia đình: Thi cử và lời cầu cứu,Gian lận học thuật,C,9.0,2026-05-20 03:24:42.304389
+VN020,Trần Thanh Hà,4,Áp lực học thêm: Tương lai hay đam mê?,Quan hệ thầy trò,A,1.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,18,Kỹ Năng Mềm Hay Thành Tích Thi Cử?,Kỳ vọng gia đình & tự chủ học sinh,C,3.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,28,Quy định thi cử: Áp lực hay an toàn?,Gian lận học thuật,A,48.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,46,Lời Thật Hay Sự Im Lặng?,Đạo đức nghề giáo,A,27.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,55,Người thầy giữa lợi ích cá nhân và công bằng giáo dục,Kinh tế & bất bình đẳng giáo dục,B,2.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,65,Tình bạn và lương tâm: Nỗi khó xử của Mai,Bắt nạt học đường,A,34.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,68,Camera trường học: An toàn hay quyền riêng tư học sinh?,Quyền riêng tư & giám sát,B,1.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,83,Giữ bí mật hay nói với người lớn?,Áp lực thi cử & sức khỏe tâm thần,B,28.0,2026-05-20 03:33:26.136931
+VN020,Trần Thanh Hà,100,Giám sát CLB: Tin tưởng hay Kiểm soát?,Quyền riêng tư & giám sát,A,136.0,2026-05-20 03:33:26.136931
+VN021,Nguyễn Ngọc Thanh Xuân,3,Áp Lực Quyền Lực Trong Lớp Học,Quan hệ thầy trò,A,,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,9,Đam mê nghệ thuật hay ơn nghĩa thầy trò?,Quan hệ thầy trò,A,30.0,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,15,Hiệu trưởng và tiếng nói học sinh: Giữa trật tự và đổi mới,Kỳ vọng gia đình & tự chủ học sinh,B,,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,49,Điểm Số Danh Dự Hay Giá Trị Giáo Dục Thật Sự?,Đạo đức nghề giáo,C,14.0,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,79,Đại Học Đô Thị hay Nơi Chôn Nhau Cắt Rốn?,Kỳ vọng gia đình & tự chủ học sinh,B,14.0,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,81,Thành tích trường và nỗi đau của Minh?,Áp lực thi cử & sức khỏe tâm thần,B,,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,84,Giữ kín hay phá vỡ lời hứa?,Áp lực thi cử & sức khỏe tâm thần,B,,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,90,Thành tích lớp: Lựa chọn của cô chủ nhiệm,Gian lận học thuật,B,,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,97,AI trong Học tập: Trung Thực Hay Hiệu Quả?,Công nghệ & mạng xã hội,A,12.0,2026-05-20 03:34:10.176153
+VN021,Nguyễn Ngọc Thanh Xuân,99,Dữ liệu học tập: Cải thiện hay Giám sát?,Quyền riêng tư & giám sát,B,,2026-05-20 03:34:10.176153
+VN022,Nguyễn Thành Nghĩa,19,"Kỳ vọng gia tộc: Khi ""thể diện"" đối đầu ""khám phá""",Kỳ vọng gia đình & tự chủ học sinh,C,4.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,35,Bài Học Khó: Chuẩn Mực hay Văn Hóa?,Phân biệt đối xử,B,686.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,41,Ưu Tiên Danh Tiếng Hay Cơ Hội Công Bằng?,Phân biệt đối xử,B,26.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,57,Tự Do Biểu Đạt Hay Giữ Gìn Khuôn Khổ?,Công nghệ & mạng xã hội,A,78.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,63,Tố cáo đồng nghiệp hay giữ im lặng vì 'tôn sư trọng đạo'?,Bắt nạt học đường,A,107.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,64,Tình phụ tử và nghĩa tôn sư,Bắt nạt học đường,A,179.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,70,Giám sát định vị giáo viên: An toàn hay xâm phạm riêng tư?,Quyền riêng tư & giám sát,B,73.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,73,Liêm chính hay Lòng trắc ẩn?,Quan hệ thầy trò,C,25.0,2026-05-20 03:51:54.765463
+VN022,Nguyễn Thành Nghĩa,76,Ưu Tiên Đội Tuyển hay Thành Tích Thi?,Kỳ vọng gia đình & tự chủ học sinh,B,24.0,2026-05-20 03:51:54.765463
+VN023,Nguyễn Ngọc Tường Vân,19,"Kỳ vọng gia tộc: Khi ""thể diện"" đối đầu ""khám phá""",Kỳ vọng gia đình & tự chủ học sinh,C,21.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,37,Bắt nạt ở trường điểm: Danh tiếng hay công lý?,Phân biệt đối xử,A,27.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,38,Ước Mơ Giữa Lòng Định Kiến,Phân biệt đối xử,B,27.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,44,Thầy giáo trẻ: Giữa khát vọng phát triển và chữ hiếu gia đình,Đạo đức nghề giáo,A,63.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,56,TikTok hay Bằng cấp: Ngã rẽ của An,Công nghệ & mạng xã hội,B,22.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,66,Minh: 'Nam tính' hay 'yếu đuối' trước bắt nạt?,Bắt nạt học đường,B,21.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,69,Bí mật giám sát con: Ranh giới yêu thương và quyền riêng tư,Quyền riêng tư & giám sát,B,24.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,74,Hỗ trợ cá nhân hay Công bằng tập thể?,Quan hệ thầy trò,A,29.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,80,Báo cáo hay giữ bí mật cho trò?,Áp lực thi cử & sức khỏe tâm thần,A,62.0,2026-05-20 03:55:39.549845
+VN023,Nguyễn Ngọc Tường Vân,87,Tiếp tục học online hay dừng lại?,Áp lực thi cử & sức khỏe tâm thần,A,18.0,2026-05-20 03:55:39.549845
+VN024,Huỳnh Chí Kiên,14,Điểm phúc khảo và cán cân đồng nghiệp,Kỳ vọng gia đình & tự chủ học sinh,A,117.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,17,Gap Year: Lựa Chọn Tự Do Và Áp Lực Gia Đình,Kỳ vọng gia đình & tự chủ học sinh,B,181.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,42,Lựa chọn đội tuyển: Tài năng thầm lặng hay hình ảnh ưu tú?,Phân biệt đối xử,B,6.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,54,Ưu tiên nhân tài hay sẻ chia cộng đồng?,Kinh tế & bất bình đẳng giáo dục,B,54.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,63,Tố cáo đồng nghiệp hay giữ im lặng vì 'tôn sư trọng đạo'?,Bắt nạt học đường,A,1.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,72,Giám sát nhóm chat lớp: Hòa giải hay xâm phạm?,Quyền riêng tư & giám sát,B,1.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,91,Tình nghĩa hay Nguyên tắc?,Đạo đức nghề giáo,C,123.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,94,Thầy Minh và Áp Lực Lớp Học Thêm: Công Bằng Hay Thu Nhập?,Kinh tế & bất bình đẳng giáo dục,A,102.0,2026-05-20 08:52:27.995748
+VN024,Huỳnh Chí Kiên,95,Trường Hương Sơn: Tiền Tài Trợ và Đạo Đức Cộng Đồng,Kinh tế & bất bình đẳng giáo dục,B,43.0,2026-05-20 08:52:27.995748
+VN025,Phạm Hữu Anh Khoa,19,"Kỳ vọng gia tộc: Khi ""thể diện"" đối đầu ""khám phá""",Kỳ vọng gia đình & tự chủ học sinh,C,108.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,21,Bắt nạt học đường: Nhẫn nhịn hay đối mặt vì con?,Áp lực thi cử & sức khỏe tâm thần,B,538.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,22,Sức khỏe học trò và kỳ vọng gia đình,Áp lực thi cử & sức khỏe tâm thần,B,101.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,26,Đạo Đức và Thành Tích: Lựa Chọn Của Ban Giám Hiệu Chu Văn An,Gian lận học thuật,B,124.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,59,Nền Tảng Số Mới: Cơ Hội Hay Rủi Ro Nề Nếp Học Đường?,Công nghệ & mạng xã hội,A,40.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,60,TikTok & Thể Diện: Kỷ Luật Hay Cảm Thông?,Công nghệ & mạng xã hội,B,51.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,70,Giám sát định vị giáo viên: An toàn hay xâm phạm riêng tư?,Quyền riêng tư & giám sát,A,52.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,75,Ngã Rẽ Sự Nghiệp: Y Khoa hay Sáng Tạo?,Kỳ vọng gia đình & tự chủ học sinh,C,34.0,2026-05-20 04:49:29.100864
+VN025,Phạm Hữu Anh Khoa,98,Gây Quỹ Trực Tuyến: Giúp Đỡ Hay Xâm Phạm?,Công nghệ & mạng xã hội,B,59.0,2026-05-20 04:49:29.100864
+VN026,Nguyễn Hữu Bảo Lộc,12,Đam mê hay gia đình: Con đường nào cho An?,Kỳ vọng gia đình & tự chủ học sinh,C,112.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,18,Kỹ Năng Mềm Hay Thành Tích Thi Cử?,Kỳ vọng gia đình & tự chủ học sinh,B,56.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,41,Ưu Tiên Danh Tiếng Hay Cơ Hội Công Bằng?,Phân biệt đối xử,B,43.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,48,"Lời Thầy, Lẽ Phải: Cô Lan Trước Áp Lực Thể Diện",Đạo đức nghề giáo,B,44.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,51,Dã ngoại Lớp 3B: Chia sẻ hay Ưu tiên Trải nghiệm?,Kinh tế & bất bình đẳng giáo dục,A,171.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,64,Tình phụ tử và nghĩa tôn sư,Bắt nạt học đường,A,52.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,66,Minh: 'Nam tính' hay 'yếu đuối' trước bắt nạt?,Bắt nạt học đường,A,68.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,81,Thành tích trường và nỗi đau của Minh?,Áp lực thi cử & sức khỏe tâm thần,A,99.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,86,Chuẩn bị thi hay vui Tết Đoàn viên?,Áp lực thi cử & sức khỏe tâm thần,A,33.0,2026-05-20 05:04:43.126479
+VN026,Nguyễn Hữu Bảo Lộc,94,Thầy Minh và Áp Lực Lớp Học Thêm: Công Bằng Hay Thu Nhập?,Kinh tế & bất bình đẳng giáo dục,A,48.0,2026-05-20 05:04:43.126479
+VN027,Hoàng Kiên Cường,23,Điểm 10 giả: Trung thực hay giữ niềm vui con?,Gian lận học thuật,B,60.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,36,Áp lực sĩ diện: Thành tích hay sức khỏe tinh thần?,Phân biệt đối xử,A,53.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,50,Trung thực hay Danh dự Tập thể?,Đạo đức nghề giáo,C,60.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,73,Liêm chính hay Lòng trắc ẩn?,Quan hệ thầy trò,C,57.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,77,Thạc Sĩ Quốc Tế hay Chữ Hiếu Gần Nhà?,Kỳ vọng gia đình & tự chủ học sinh,C,77.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,84,Giữ kín hay phá vỡ lời hứa?,Áp lực thi cử & sức khỏe tâm thần,B,81.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,88,Gia sư: Đẩy hay giữ chân trò?,Áp lực thi cử & sức khỏe tâm thần,B,57.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,94,Thầy Minh và Áp Lực Lớp Học Thêm: Công Bằng Hay Thu Nhập?,Kinh tế & bất bình đẳng giáo dục,B,64.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Kiên Cường,95,Trường Hương Sơn: Tiền Tài Trợ và Đạo Đức Cộng Đồng,Kinh tế & bất bình đẳng giáo dục,A,87.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,23,Điểm 10 giả: Trung thực hay giữ niềm vui con?,Gian lận học thuật,B,60.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,36,Áp lực sĩ diện: Thành tích hay sức khỏe tinh thần?,Phân biệt đối xử,A,53.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,50,Trung thực hay Danh dự Tập thể?,Đạo đức nghề giáo,C,60.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,73,Liêm chính hay Lòng trắc ẩn?,Quan hệ thầy trò,C,57.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,77,Thạc Sĩ Quốc Tế hay Chữ Hiếu Gần Nhà?,Kỳ vọng gia đình & tự chủ học sinh,C,77.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,84,Giữ kín hay phá vỡ lời hứa?,Áp lực thi cử & sức khỏe tâm thần,B,81.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,88,Gia sư: Đẩy hay giữ chân trò?,Áp lực thi cử & sức khỏe tâm thần,B,57.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,94,Thầy Minh và Áp Lực Lớp Học Thêm: Công Bằng Hay Thu Nhập?,Kinh tế & bất bình đẳng giáo dục,B,64.0,2026-05-20 06:15:36.442257
+VN027,Hoàng Mỹ Linh,95,Trường Hương Sơn: Tiền Tài Trợ và Đạo Đức Cộng Đồng,Kinh tế & bất bình đẳng giáo dục,A,87.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,23,Điểm 10 giả: Trung thực hay giữ niềm vui con?,Gian lận học thuật,B,60.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,36,Áp lực sĩ diện: Thành tích hay sức khỏe tinh thần?,Phân biệt đối xử,A,53.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,50,Trung thực hay Danh dự Tập thể?,Đạo đức nghề giáo,C,60.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,73,Liêm chính hay Lòng trắc ẩn?,Quan hệ thầy trò,C,57.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,77,Thạc Sĩ Quốc Tế hay Chữ Hiếu Gần Nhà?,Kỳ vọng gia đình & tự chủ học sinh,C,77.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,84,Giữ kín hay phá vỡ lời hứa?,Áp lực thi cử & sức khỏe tâm thần,B,81.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,88,Gia sư: Đẩy hay giữ chân trò?,Áp lực thi cử & sức khỏe tâm thần,B,57.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,94,Thầy Minh và Áp Lực Lớp Học Thêm: Công Bằng Hay Thu Nhập?,Kinh tế & bất bình đẳng giáo dục,B,64.0,2026-05-20 06:15:36.442257
+VN027,Trương Hồ Thiên Khoa,95,Trường Hương Sơn: Tiền Tài Trợ và Đạo Đức Cộng Đồng,Kinh tế & bất bình đẳng giáo dục,A,87.0,2026-05-20 06:15:36.442257
+VN028,Tạ Gia Khiêm,4,Áp lực học thêm: Tương lai hay đam mê?,Quan hệ thầy trò,C,82.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,11,Đam Mê Hay Thành Tích: Lựa Chọn Cho Hoàng Lan,Quan hệ thầy trò,C,66.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,13,Minh và áp lực đội tuyển: Giữa kỳ vọng và tự chủ,Kỳ vọng gia đình & tự chủ học sinh,C,178.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,30,Chính trực hay Tình bạn?,Gian lận học thuật,B,46.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,43,Học bổng cho Thảo: Quy trình hay Lòng nhân?,Đạo đức nghề giáo,B,187.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,75,Ngã Rẽ Sự Nghiệp: Y Khoa hay Sáng Tạo?,Kỳ vọng gia đình & tự chủ học sinh,C,28.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,78,Nối Nghiệp Gia Đình hay Theo Đam Mê Khoa Học?,Kỳ vọng gia đình & tự chủ học sinh,B,156.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,80,Báo cáo hay giữ bí mật cho trò?,Áp lực thi cử & sức khỏe tâm thần,B,196.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,82,Trường chuyên: Rạng danh hay tổn thương?,Áp lực thi cử & sức khỏe tâm thần,A,96.0,2026-05-20 05:20:33.408758
+VN028,Tạ Gia Khiêm,91,Tình nghĩa hay Nguyên tắc?,Đạo đức nghề giáo,B,68.0,2026-05-20 05:20:33.408758
+VN029,Trương Hồ Thiên Khoa,2,Lựa chọn giữa công bằng và tôn sư,Quan hệ thầy trò,C,57.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,12,Đam mê hay gia đình: Con đường nào cho An?,Kỳ vọng gia đình & tự chủ học sinh,C,9.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,14,Điểm phúc khảo và cán cân đồng nghiệp,Kỳ vọng gia đình & tự chủ học sinh,A,11.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,15,Hiệu trưởng và tiếng nói học sinh: Giữa trật tự và đổi mới,Kỳ vọng gia đình & tự chủ học sinh,A,29.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,16,Giữa thành tích và tuổi thơ con,Kỳ vọng gia đình & tự chủ học sinh,A,35.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,17,Gap Year: Lựa Chọn Tự Do Và Áp Lực Gia Đình,Kỳ vọng gia đình & tự chủ học sinh,A,6.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,20,Đánh đổi thành tích lấy sức khỏe học trò?,Áp lực thi cử & sức khỏe tâm thần,A,24.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,48,"Lời Thầy, Lẽ Phải: Cô Lan Trước Áp Lực Thể Diện",Đạo đức nghề giáo,B,42.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,59,Nền Tảng Số Mới: Cơ Hội Hay Rủi Ro Nề Nếp Học Đường?,Công nghệ & mạng xã hội,A,7.0,2026-05-20 05:23:49.594593
+VN029,Trương Hồ Thiên Khoa,93,Quỹ Phát Triển: Ưu Tiên Nhân Tài hay Bình Đẳng Hạ Tầng?,Kinh tế & bất bình đẳng giáo dục,A,37.0,2026-05-20 05:23:49.594593
+VN030,Lê Thành Vinh,13,Minh và áp lực đội tuyển: Giữa kỳ vọng và tự chủ,Kỳ vọng gia đình & tự chủ học sinh,C,15.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,15,Hiệu trưởng và tiếng nói học sinh: Giữa trật tự và đổi mới,Kỳ vọng gia đình & tự chủ học sinh,A,30.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,17,Gap Year: Lựa Chọn Tự Do Và Áp Lực Gia Đình,Kỳ vọng gia đình & tự chủ học sinh,B,11.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,26,Đạo Đức và Thành Tích: Lựa Chọn Của Ban Giám Hiệu Chu Văn An,Gian lận học thuật,B,35.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,41,Ưu Tiên Danh Tiếng Hay Cơ Hội Công Bằng?,Phân biệt đối xử,B,32.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,45,Đổi mới giáo dục: Hiệu trưởng Thanh giữa kỳ vọng và rủi ro pháp lý,Đạo đức nghề giáo,B,25.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,53,Áp lực Huy chương: Chia sẻ hay Giữ bí quyết?,Kinh tế & bất bình đẳng giáo dục,B,63.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,58,Bày tỏ bất đồng trực tuyến hay giữ gìn hình ảnh trường học?,Công nghệ & mạng xã hội,B,15.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,72,Giám sát nhóm chat lớp: Hòa giải hay xâm phạm?,Quyền riêng tư & giám sát,B,32.0,2026-05-20 05:22:28.749186
+VN030,Lê Thành Vinh,80,Báo cáo hay giữ bí mật cho trò?,Áp lực thi cử & sức khỏe tâm thần,B,27.0,2026-05-20 05:22:28.749186
+VN031,Hoàng Văn Nam,1,Đổi mới hay Ổn định: Lựa chọn của Khôi,Quan hệ thầy trò,B,139.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,5,Hợp tác hay Cạnh tranh: Lựa chọn của Cô Mai,Quan hệ thầy trò,B,45.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,6,Đề tài tốt nghiệp: Đột phá hay an toàn?,Quan hệ thầy trò,B,71.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,7,Áp lực tập thể: Kế hoạch cá nhân và thành tích lớp,Quan hệ thầy trò,B,18.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,8,Áp lực phụ huynh: Đổi giáo viên hay giữ vững nguyên tắc sư phạm?,Quan hệ thầy trò,A,61.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,10,Linh hoạt hay Nguyên tắc: Bài toán của Thầy An,Quan hệ thầy trò,A,120.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,11,Đam Mê Hay Thành Tích: Lựa Chọn Cho Hoàng Lan,Quan hệ thầy trò,A,100.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,16,Giữa thành tích và tuổi thơ con,Kỳ vọng gia đình & tự chủ học sinh,A,92.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,20,Đánh đổi thành tích lấy sức khỏe học trò?,Áp lực thi cử & sức khỏe tâm thần,B,11.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,21,Bắt nạt học đường: Nhẫn nhịn hay đối mặt vì con?,Áp lực thi cử & sức khỏe tâm thần,A,33.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,22,Sức khỏe học trò và kỳ vọng gia đình,Áp lực thi cử & sức khỏe tâm thần,B,29.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,24,Dữ liệu giả: Danh dự cá nhân hay Uy tín tập thể?,Gian lận học thuật,B,51.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,25,Hồng: Minh oan hay giữ thể diện trường?,Gian lận học thuật,B,44.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,27,Hoàng Nam: Tình bạn hay trách nhiệm với tập thể?,Gian lận học thuật,A,28.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,28,Quy định thi cử: Áp lực hay an toàn?,Gian lận học thuật,C,160.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,29,Công bằng học đường hay 'quan hệ': Áp lực của thầy chủ nhiệm,Gian lận học thuật,B,79.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,32,Lòng trắc ẩn hay Nguyên tắc: Lựa chọn của Cô Hoa,Gian lận học thuật,B,61.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,33,Sáng tạo bị cấm: Kỷ luật Minh vì phương pháp học độc đáo,Phân biệt đối xử,B,40.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,34,Phản biện hay Im lặng: Bài học từ Thầy Bình,Phân biệt đối xử,A,50.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,35,Bài Học Khó: Chuẩn Mực hay Văn Hóa?,Phân biệt đối xử,A,96.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,39,Thiên vị Vô Thức: Chấp Nhận Vì Hòa Khí Hay Đấu Tranh Vì Công Bằng?,Phân biệt đối xử,B,86.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,40,Bó hoa của An: Định kiến giới hay Tài năng?,Phân biệt đối xử,B,58.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,43,Học bổng cho Thảo: Quy trình hay Lòng nhân?,Đạo đức nghề giáo,B,66.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,45,Đổi mới giáo dục: Hiệu trưởng Thanh giữa kỳ vọng và rủi ro pháp lý,Đạo đức nghề giáo,B,26.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,46,Lời Thật Hay Sự Im Lặng?,Đạo đức nghề giáo,C,92.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,47,Phương pháp mới hay An toàn truyền thống: Lựa chọn của Cô Lan,Đạo đức nghề giáo,C,30.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,49,Điểm Số Danh Dự Hay Giá Trị Giáo Dục Thật Sự?,Đạo đức nghề giáo,C,70.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,52,Minh bạch tài chính trường học: Phụ huynh nên làm gì?,Kinh tế & bất bình đẳng giáo dục,B,41.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,62,Can thiệp Bắt nạt: Sáng tạo hay Quy trình chuẩn?,Bắt nạt học đường,B,59.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,71,Quy định Mạng Xã Hội Sinh Viên: Quyền Riêng Tư và Trách Nhiệm Nhà Trường,Quyền riêng tư & giám sát,A,45.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,92,Sự thật hay Giữ thể diện?,Đạo đức nghề giáo,B,48.0,2026-05-20 17:41:35.679472
+VN031,Hoàng Văn Nam,96,Deepfake và Thể diện Gia đình,Công nghệ & mạng xã hội,B,16.0,2026-05-20 17:41:35.679472
+VN032,Tạ Gia Khiêm,5,Hợp tác hay Cạnh tranh: Lựa chọn của Cô Mai,Quan hệ thầy trò,B,21.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,6,Đề tài tốt nghiệp: Đột phá hay an toàn?,Quan hệ thầy trò,B,28.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,7,Áp lực tập thể: Kế hoạch cá nhân và thành tích lớp,Quan hệ thầy trò,B,21.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,8,Áp lực phụ huynh: Đổi giáo viên hay giữ vững nguyên tắc sư phạm?,Quan hệ thầy trò,B,46.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,25,Hồng: Minh oan hay giữ thể diện trường?,Gian lận học thuật,B,25.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,32,Lòng trắc ẩn hay Nguyên tắc: Lựa chọn của Cô Hoa,Gian lận học thuật,B,57.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,33,Sáng tạo bị cấm: Kỷ luật Minh vì phương pháp học độc đáo,Phân biệt đối xử,B,21.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,34,Phản biện hay Im lặng: Bài học từ Thầy Bình,Phân biệt đối xử,A,74.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,39,Thiên vị Vô Thức: Chấp Nhận Vì Hòa Khí Hay Đấu Tranh Vì Công Bằng?,Phân biệt đối xử,B,36.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,47,Phương pháp mới hay An toàn truyền thống: Lựa chọn của Cô Lan,Đạo đức nghề giáo,A,35.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,51,Dã ngoại Lớp 3B: Chia sẻ hay Ưu tiên Trải nghiệm?,Kinh tế & bất bình đẳng giáo dục,B,42.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,52,Minh bạch tài chính trường học: Phụ huynh nên làm gì?,Kinh tế & bất bình đẳng giáo dục,B,21.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,54,Ưu tiên nhân tài hay sẻ chia cộng đồng?,Kinh tế & bất bình đẳng giáo dục,B,26.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,55,Người thầy giữa lợi ích cá nhân và công bằng giáo dục,Kinh tế & bất bình đẳng giáo dục,A,40.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,56,TikTok hay Bằng cấp: Ngã rẽ của An,Công nghệ & mạng xã hội,B,42.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,57,Tự Do Biểu Đạt Hay Giữ Gìn Khuôn Khổ?,Công nghệ & mạng xã hội,B,55.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,61,Lời tố cáo giữa lễ: Quyền lợi hay hỗn láo?,Bắt nạt học đường,B,34.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,62,Can thiệp Bắt nạt: Sáng tạo hay Quy trình chuẩn?,Bắt nạt học đường,B,25.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,67,Trưởng lớp gương mẫu và bóng tối bắt nạt,Bắt nạt học đường,B,31.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,69,Bí mật giám sát con: Ranh giới yêu thương và quyền riêng tư,Quyền riêng tư & giám sát,A,22.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,71,Quy định Mạng Xã Hội Sinh Viên: Quyền Riêng Tư và Trách Nhiệm Nhà Trường,Quyền riêng tư & giám sát,B,37.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,74,Hỗ trợ cá nhân hay Công bằng tập thể?,Quan hệ thầy trò,A,26.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,78,Nối Nghiệp Gia Đình hay Theo Đam Mê Khoa Học?,Kỳ vọng gia đình & tự chủ học sinh,B,94.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,79,Đại Học Đô Thị hay Nơi Chôn Nhau Cắt Rốn?,Kỳ vọng gia đình & tự chủ học sinh,C,32.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,82,Trường chuyên: Rạng danh hay tổn thương?,Áp lực thi cử & sức khỏe tâm thần,A,15.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,89,Áp lực gia đình: Thi cử và lời cầu cứu,Gian lận học thuật,C,27.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,90,Thành tích lớp: Lựa chọn của cô chủ nhiệm,Gian lận học thuật,C,24.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,92,Sự thật hay Giữ thể diện?,Đạo đức nghề giáo,B,87.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,96,Deepfake và Thể diện Gia đình,Công nghệ & mạng xã hội,A,28.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,97,AI trong Học tập: Trung Thực Hay Hiệu Quả?,Công nghệ & mạng xã hội,B,96.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,98,Gây Quỹ Trực Tuyến: Giúp Đỡ Hay Xâm Phạm?,Công nghệ & mạng xã hội,B,43.0,2026-05-20 17:34:15.555849
+VN032,Tạ Gia Khiêm,100,Giám sát CLB: Tin tưởng hay Kiểm soát?,Quyền riêng tư & giám sát,A,80.0,2026-05-20 17:34:15.555849
