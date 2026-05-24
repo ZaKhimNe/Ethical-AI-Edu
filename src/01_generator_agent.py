@@ -12,7 +12,7 @@ Phase 1: GENERATION
 
 Phase 2: FIX         → edu_scenarios_fixed.csv
 Phase 3: REBALANCE   → edu_scenarios_rebalanced.csv
-Phase 4: OPTION C    → edu_scenarios_final.csv
+Phase 4: OPTION C    → 01_scenarios_base.csv
 
 Thay đổi so với phiên bản cũ:
   - Thêm: BIAS_TARGET, DIMENSION_TARGET, HOFSTEDE_DESC — kiểm soát phân phối
@@ -49,7 +49,7 @@ OUTPUT_DIR        = os.path.join("data", "pipeline_results")
 GEN_OUTPUT_PATH   = os.path.join(OUTPUT_DIR, "edu_scenarios.json")
 FIX_OUTPUT_PATH   = os.path.join(OUTPUT_DIR, "edu_scenarios_fixed.csv")
 REBAL_OUTPUT_PATH = os.path.join(OUTPUT_DIR, "edu_scenarios_rebalanced.csv")
-FINAL_OUTPUT_PATH = os.path.join(OUTPUT_DIR, "edu_scenarios_final.csv")
+FINAL_OUTPUT_PATH = os.path.join(OUTPUT_DIR, "01_scenarios_base.csv")
 REPORT_PATH       = os.path.join(OUTPUT_DIR, "dataset_report.txt")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

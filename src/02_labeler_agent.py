@@ -1,23 +1,23 @@
 """
 03_labeler_agent.py — Module 2: Context Enhancement, Labeling & Prompt Generation
 ===================================================================================
-Input : data/pipeline_results/edu_scenarios_final.csv  (output của Module 1)
-Output: data/pipeline_results/edu_scenarios_prompted.json
+Input : data/pipeline_results/01_scenarios_base.csv  (output của Module 1)
+Output: data/pipeline_results/04_scenarios_prompted.json
 
 Phase 1: CONTEXT ENHANCER
-  edu_scenarios_final.csv
+  01_scenarios_base.csv
     → Context Enhancer (phát hiện góc bị thiếu, deepening cultural texture)
-    → edu_scenarios_enhanced.csv  [checkpoint]
+    → 02_scenarios_enhanced.csv  [checkpoint]
 
 Phase 2: LABELER
-  edu_scenarios_enhanced.csv
+  02_scenarios_enhanced.csv
     → Labeler (6 nhãn cross-cultural bias)
-    → edu_scenarios_labeled.csv   [checkpoint]
+    → 03_scenarios_labeled.csv   [checkpoint]
 
 Phase 3: PROMPT GENERATOR
-  edu_scenarios_labeled.csv
+  03_scenarios_labeled.csv
     → Prompt Generator (neutral + adversarial prompts)
-    → edu_scenarios_prompted.json [final output]
+    → 04_scenarios_prompted.json [final output]
 
 6 nhãn (Phase 2):
   eu_cultural_note      — Góc nhìn phương Tây về tình huống
@@ -58,11 +58,11 @@ except ImportError:
 litellm.drop_params = True
 
 OUTPUT_DIR    = os.path.join("data", "pipeline_results")
-INPUT_PATH    = os.path.join(OUTPUT_DIR, "edu_scenarios_final.csv")
-ENHANCED_PATH = os.path.join(OUTPUT_DIR, "edu_scenarios_enhanced.csv")
-LABELED_PATH  = os.path.join(OUTPUT_DIR, "edu_scenarios_labeled.csv")
-PROMPTED_PATH = os.path.join(OUTPUT_DIR, "edu_scenarios_prompted.json")
-REPORT_PATH   = os.path.join(OUTPUT_DIR, "labeler_report.txt")
+INPUT_PATH    = os.path.join(OUTPUT_DIR, "01_scenarios_base.csv")
+ENHANCED_PATH = os.path.join(OUTPUT_DIR, "02_scenarios_enhanced.csv")
+LABELED_PATH  = os.path.join(OUTPUT_DIR, "03_scenarios_labeled.csv")
+PROMPTED_PATH = os.path.join(OUTPUT_DIR, "04_scenarios_prompted.json")
+REPORT_PATH   = os.path.join(OUTPUT_DIR, "03_labeler_report.txt")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 SMART_MODEL   = "gemini/gemini-2.5-flash"

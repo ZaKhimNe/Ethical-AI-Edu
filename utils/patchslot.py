@@ -25,7 +25,7 @@ except ImportError:
 
 litellm.drop_params = True
 
-CSV_PATH      = "data/pipeline_results/edu_scenarios_final.csv"
+CSV_PATH      = "data/pipeline_results/01_scenarios_base.csv"
 SMART_MODEL   = "gemini/gemini-2.5-flash"
 SLEEP_BETWEEN = 1
 SAVE_EVERY    = 10

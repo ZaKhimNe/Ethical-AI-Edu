@@ -1,7 +1,7 @@
 """
 clean_labeled.py
 ────────────────
-Làm sạch cột cultural_dimension trong edu_scenarios_labeled.csv.
+Làm sạch cột cultural_dimension trong 03_scenarios_labeled.csv.
 Trích xuất đúng tên dimension, bỏ phần giải thích thừa.
 
 Chạy: python clean_labeled.py
@@ -9,7 +9,7 @@ Chạy: python clean_labeled.py
 import re
 import pandas as pd
 
-LABELED_PATH = "data/pipeline_results/edu_scenarios_labeled.csv"
+LABELED_PATH = "data/pipeline_results/03_scenarios_labeled.csv"
 
 VALID_DIMS = [
     "Individualism vs Collectivism",

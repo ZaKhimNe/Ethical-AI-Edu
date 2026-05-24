@@ -1,8 +1,8 @@
 """
 Module 4 Report Generator
 =========================
-Input  : data/pipeline_results/bias_report.json
-Output : data/pipeline_results/judge_report.txt
+Input  : data/pipeline_results/06_judge_labels.json
+Output : data/pipeline_results/06_judge_report.txt
 """
 
 import json, sys
@@ -12,8 +12,8 @@ from pathlib import Path
 if sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-INPUT_PATH  = Path("data/pipeline_results/bias_report.json")
-OUTPUT_PATH = Path("data/pipeline_results/judge_report.txt")
+INPUT_PATH  = Path("data/pipeline_results/06_judge_labels.json")
+OUTPUT_PATH = Path("data/pipeline_results/06_judge_report.txt")
 
 
 def pct(n, total):

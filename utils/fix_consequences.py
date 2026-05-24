@@ -1,7 +1,7 @@
 """
 Tách lại option_1/2/3 của 60 scenarios thiếu markers thành format:
   [hành động]. Hệ quả tốt: [...]. Hệ quả xấu: [...]
-Dùng Gemini để rewrite. Kết quả ghi đè vào edu_scenarios_prompted.json.
+Dùng Gemini để rewrite. Kết quả ghi đè vào 04_scenarios_prompted.json.
 Chạy xong thì chạy import_scenarios.py để sync lên Supabase.
 """
 import json, os, re, sys, time
@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 load_dotenv(os.path.join(ROOT, ".env"))
 litellm.api_key = os.environ["GEMINI_API_KEY"]
 
-JSON_PATH = os.path.join(ROOT, "data/pipeline_results/edu_scenarios_prompted.json")
+JSON_PATH = os.path.join(ROOT, "data/pipeline_results/04_scenarios_prompted.json")
 MARKER_RX = re.compile(r"Hệ quả tốt|HỆ QUẢ TỐT|Hệ quả xấu|HỆ QUẢ XẤU")
 
 SYSTEM = (

@@ -13,7 +13,7 @@ headers = {
     "Prefer": "return=minimal,resolution=merge-duplicates"
 }
 
-with open(os.path.join(ROOT, "data/pipeline_results/edu_scenarios_prompted.json"), encoding="utf-8") as f:
+with open(os.path.join(ROOT, "data/pipeline_results/04_scenarios_prompted.json"), encoding="utf-8") as f:
     data = json.load(f)
 
 rows = [{

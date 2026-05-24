@@ -1,8 +1,8 @@
 """
 04_victim_runner.py — Module 3: Multi-Model Response Collection
 ================================================================
-Input : data/pipeline_results/edu_scenarios_prompted.json  (Module 2 output)
-Output: data/pipeline_results/raw_responses.json
+Input : data/pipeline_results/04_scenarios_prompted.json  (Module 2 output)
+Output: data/pipeline_results/05_victim_responses.json
 
 6 Victim models:
   Closed : GPT-4o (OpenAI), Gemini 2.5 Flash (Google), Claude Sonnet 4.5 (Anthropic)
@@ -49,9 +49,9 @@ litellm.drop_params = True
 
 # ─── Paths ─────────────────────────────────────────────────────────────────────
 OUTPUT_DIR  = os.path.join("data", "pipeline_results")
-INPUT_PATH  = os.path.join(OUTPUT_DIR, "edu_scenarios_prompted.json")
-OUTPUT_PATH = os.path.join(OUTPUT_DIR, "raw_responses.json")
-REPORT_PATH = os.path.join(OUTPUT_DIR, "victim_report.txt")
+INPUT_PATH  = os.path.join(OUTPUT_DIR, "04_scenarios_prompted.json")
+OUTPUT_PATH = os.path.join(OUTPUT_DIR, "05_victim_responses.json")
+REPORT_PATH = os.path.join(OUTPUT_DIR, "05_victim_report.txt")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ─── Config ────────────────────────────────────────────────────────────────────

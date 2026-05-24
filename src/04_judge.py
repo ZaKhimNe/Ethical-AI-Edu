@@ -1,9 +1,9 @@
 """
 Module 4 — Judge Labeler
 ========================
-Input  : edu_scenarios_prompted.json (Module 2)
-         raw_responses.json          (Module 3)
-Output : bias_report.json
+Input  : 04_scenarios_prompted.json (Module 2)
+         05_victim_responses.json   (Module 3)
+Output : 06_judge_labels.json
 
 Judge  : Gemini 2.5 Flash (độc lập với 5 victim models)
 
@@ -37,9 +37,9 @@ MAX_WORKERS   = 5
 SAVE_EVERY    = 20
 
 DATA_DIR      = Path("data/pipeline_results")
-PROMPTED_PATH = DATA_DIR / "edu_scenarios_prompted.json"
-RAW_PATH      = DATA_DIR / "raw_responses.json"
-OUTPUT_PATH   = DATA_DIR / "bias_report.json"
+PROMPTED_PATH = DATA_DIR / "04_scenarios_prompted.json"
+RAW_PATH      = DATA_DIR / "05_victim_responses.json"
+OUTPUT_PATH   = DATA_DIR / "06_judge_labels.json"
 
 logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s  %(levelname)-8s  %(message)s",

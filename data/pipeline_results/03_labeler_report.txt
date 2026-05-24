@@ -1,0 +1,29 @@
+MODULE 2 PIPELINE REPORT
+============================================================
+
+============================================================
+PHASE 1 — CONTEXT ENHANCER
+============================================================
+Total processed   : 100
+Enhanced          : 100
+Fallback (giu goc): 0
+
+============================================================
+PHASE 3 — PROMPT GENERATOR
+============================================================
+Total          : 100
+Voi prompt     : 100
+Thieu labels   : 0
+
+============================================================
+TONG KET MODULE 2
+============================================================
+Total scenarios      : 100
+Context enhanced     : 100
+Labeled (6 nhan)     : 100
+Voi prompts          : 100
+
+Bias direction breakdown:
+  VN_bias  : 55
+  EU_bias  : 43
+  balanced : 2
